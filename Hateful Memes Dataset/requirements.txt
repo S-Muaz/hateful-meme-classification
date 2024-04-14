@@ -1,5 +1,0 @@
-!pip install ultralytics==8.0.231
-!pip install keras_ocr==0.9.3
-!pip install scikit-learn==1.4.0
-!pip install seaborn==0.12.2
-!pip install nltk==3.8.1
